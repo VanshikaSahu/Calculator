@@ -1,0 +1,27 @@
+button{
+    width: 80px;
+    font-size: 18px;
+    text-align:center;
+    height: 45px;
+}
+
+
+table, td{
+    border: 1px solid black;
+    
+}
+table{
+    width: 350px;
+    height: 250px;
+}
+#clr{
+    width: 80px;
+    height: 40px; 
+
+}
+#input{
+    width: 245px;
+    height: 35px; 
+    border: 2px solid black;
+
+}
